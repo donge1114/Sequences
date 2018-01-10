@@ -15,7 +15,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Enyi Dong.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------
 # DONE: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
